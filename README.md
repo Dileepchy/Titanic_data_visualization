@@ -22,21 +22,21 @@ The project is built using Python and leverages the following libraries for data
 
 ## 📖 Steps for Data visualization
 
-SECTION 1: Loading the Data
-SECTION 2: DATA PREPROCESSING AND CLEANING
-SECTION 3: EXPLORATORY DATA ANALYSIS (EDA)
-3.1 Survival Overview
-3.2 Demographic Analysis
-SECTION 4: DETAILED SURVIVAL ANALYSIS
-4.1 Survival by Multiple Factors
-4.2 Advanced Visualizations
-SECTION 5: STATISTICAL INSIGHTS AND PATTERNS
-5.1 Key Statistics
-5.2 Cross-tabulation Analysis
-SECTION 6: EXPLANATORY VISUALIZATIONS FOR PRESENTATION
-6.1 Executive Summary Dashboard
-SECTION 7: KEY FINDINGS AND INSIGHTS
-Crafting new features for better analysis
+* SECTION 1: Loading the Data
+* SECTION 2: DATA PREPROCESSING AND CLEANING
+* SECTION 3: EXPLORATORY DATA ANALYSIS (EDA)
+       - 3.1 Survival Overview
+       - 3.2 Demographic Analysis
+* SECTION 4: DETAILED SURVIVAL ANALYSIS
+       - 4.1 Survival by Multiple Factors
+       - 4.2 Advanced Visualizations
+* SECTION 5: STATISTICAL INSIGHTS AND PATTERNS
+       - 5.1 Key Statistics
+       - 5.2 Cross-tabulation Analysis
+* SECTION 6: EXPLANATORY VISUALIZATIONS FOR PRESENTATION
+        - 6.1 Executive Summary Dashboard
+* SECTION 7: KEY FINDINGS AND INSIGHTS
+       - Crafting new features for better analysis
 
 ## 😲 Feature: SibSp
 
