@@ -59,4 +59,4 @@ We observed a **0% survival rate** for families with 5–8 members.
 ## 🚀 How to Use
 1. Clone this repository: 
    ```bash
-   git clone [https://github.com/your-username/titanic-analysis.git](https://github.com/your-username/titanic-analysis.git)
+   git clone [https://github.com/Dileepchy/Titanic_data_visualization.git]
